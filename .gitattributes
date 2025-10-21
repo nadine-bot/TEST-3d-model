@@ -1,0 +1,2 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+TEST-HOLES-GRASS.glb filter=lfs diff=lfs merge=lfs -text
